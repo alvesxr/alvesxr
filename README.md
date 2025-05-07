@@ -1,7 +1,7 @@
 ## Ola sou João Rafael, seja bem vindo para conhecer algum dos meus projetos!
 
 - 📚 Estudando ensino médio integrado com curso técnico em Desenvolvimento de Sistemas
-- 📘 Cada hora estudando uma linguagem, Java, c#, php...
+- 📘 Cada hora estudando uma linguagem, Java, C#, PHP...
 <div align="center">
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
