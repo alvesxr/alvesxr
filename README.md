@@ -1,7 +1,7 @@
 ## Ola sou João Rafael, seja bem vindo para conhecer algum dos meus projetos!
 
 - 📚 Estudando ensino médio integrado com curso técnico em Desenvolvimento de Sistemas
-- 📘 Cada hora estudando uma linguagem específica, Java, c#, php...
+- 📘 Cada hora estudando uma linguagem, Java, c#, php...
 <div align="center">
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -26,3 +26,16 @@
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
+
+<div align="center">
+  <!-- Visual Studio 2022 (representado como Visual Studio) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+
+  <!-- Eclipse -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" />
+
+</div>
+
