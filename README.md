@@ -9,8 +9,6 @@
   <!-- .NET -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
 
-  <!-- WPF (sem ícone oficial no Devicon, pode usar .NET como representação) -->
-
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 
@@ -28,7 +26,7 @@
 </div>
 
 <div align="center">
-  <!-- Visual Studio 2022 (representado como Visual Studio) -->
+  <!-- Visual Studio 2022-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 
   <!-- VS Code -->
@@ -38,4 +36,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse" />
 
 </div>
+
+<div align="center">
+  <p>Me encontre por aqui:</p>
+
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-rafael-alves-recco-694b05328/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+
+
+<p>Contato por email:</p>
+  <!-- Email -->
+  <a href="mailto:joao.alvesrecco@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
+  </a>
+</div>
+
 
