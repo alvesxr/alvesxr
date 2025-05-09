@@ -1,6 +1,6 @@
 ## Olá sou João Rafael, seja bem vindo para conhecer alguns dos meus projetos!
 
-- 📚 Estudando ensino médio integrado com curso técnico em Desenvolvimento de Sistemas
+- 📚 Cursando ensino médio integrado com curso técnico em Desenvolvimento de Sistemas
 - 📘 Cada hora estudando uma linguagem, Java, C#, PHP...
 <div align="center">
   <!-- C# -->
