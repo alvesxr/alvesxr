@@ -57,9 +57,6 @@
 
 <p>Contato por email:</p>
   <!-- Email -->
-  <a href="mailto:joao.alvesrecco@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
-  </a>
-</div>
+<p>joao.alvesrecco@gmail.com</p>
 
 
